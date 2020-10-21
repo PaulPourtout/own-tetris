@@ -1,0 +1,11 @@
+#container {
+    border: .125rem solid #DEDEDE;
+    width: 30rem;
+    height: 40rem;
+}
+
+.block {
+    width: 3rem;
+    height: 3rem;
+    background-color: cyan;
+}
